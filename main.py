@@ -19,4 +19,8 @@ def divide(a, b, c, d):
     return a + b 
 def divide(a, b, c, d):
     return a + b 
+def divide(a, b, c, d):
+    return a + b 
+def divide(a, b, c, d):
+    return a + b 
 
